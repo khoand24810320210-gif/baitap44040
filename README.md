@@ -15,7 +15,8 @@
 <img width="856" height="492" alt="main5 4" src="https://github.com/user-attachments/assets/c32001d0-c7dd-4990-a88b-caea28c0e830" />
 
 ### 2. Ảnh màn hình Chức năng thực thi / Kết quả
-![Uploading thuchanh5.4.png…]()
+<img width="1858" height="658" alt="thuchanh5 4" src="https://github.com/user-attachments/assets/c89468ec-bc33-4f66-95fb-385ef6eb8f8e" />
+
 
 ### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
 
